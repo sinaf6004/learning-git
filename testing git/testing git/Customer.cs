@@ -9,6 +9,7 @@ namespace testing_git
     class Customer
     {
         string name;
+        string descreption;
         string password;
     }
 }
