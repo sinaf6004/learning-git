@@ -10,6 +10,7 @@ namespace testing_git
     {
         string name;
         string descreption;
+        string phoneNumber;
         string password;
         int age;
     }
