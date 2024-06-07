@@ -11,5 +11,6 @@ namespace testing_git
         string name;
         string descreption;
         string password;
+        int age;
     }
 }
